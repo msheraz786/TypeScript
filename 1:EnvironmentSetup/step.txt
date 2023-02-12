@@ -1,0 +1,18 @@
+1st:    Install Node.js
+        Go to the Node.js website (https://nodejs.org/en/download/
+        download the latest version of Node.js according to your operating system.
+        Install the download file by following the prompts.
+        After successfully installtion, verify that Node.js is installed on your system.
+        For verifing the installtion open command prompt and type : node -v. This will display the node version if installed successfully.
+
+2nd:    Install TypeScript
+        Open command Prompt and run following command : npm install -g typescript.
+        after installation.
+        run: tsc -v
+        this will return version number if install successfully.
+
+3rd:    Install Visual Studio
+        Go to the Visual Studio Code website (https://code.visualstudio.com/download)
+        Download Latest version as per your operating system.
+        Run downloaded file for installtion.
+        After successfully installation open VSCode for writing First Program :).
