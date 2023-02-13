@@ -12,4 +12,3 @@ console.log(`Multiplication of ${firstNumber} * ${secondNumber} = ${firstNumber 
 firstNumber=16;
 console.log(`Division of ${firstNumber} / ${secondNumber} = ${firstNumber / secondNumber}`);
 
-
