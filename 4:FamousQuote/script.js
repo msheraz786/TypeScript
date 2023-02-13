@@ -3,6 +3,4 @@ Famous Quote: Find a quote from a famous person you admire. Print the quote and 
 Your output should look something like the following, including the quotation marks:
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 */
-var authorName = "Khalid Ibn Waleed";
-var quot = "If you are truthful you will survive.";
-console.log("".concat(authorName, " once said, \"").concat(quot, "\""));
+console.log("Khalid Ibn Waleed once said, \"If you are truthful you will survive.\"");
